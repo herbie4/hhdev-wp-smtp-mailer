@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: SMTP phpmailer plugin
+Plugin Name: HHdev SMTP phpmailer plugin
 Plugin URI:  https://haha.nl/wordpress-plug-in-op-maat/
-Description: Use as MU-plugin and set the needed config in wp-config.php. No need to use a bloated smtp plugin.
+Description: Use as MU-plugin and set the needed config in wp-config.php to send emails via SMTP not php mailer.
 Version:     1.0.1
 Author:      Herbert Hoekstra (haha!)
 Author URI:  https://haha.nl/
@@ -23,7 +23,6 @@ GNU General Public License for more details.
 // use the set up below in wp-config.php to set the values
 
 /*
-
 // set wp-smtp-mailer.php config
 // uses mu-plugin wp-smtp-mailer.php
 define('MAILER_ENABLED', true); // true or false
