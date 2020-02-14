@@ -1,7 +1,7 @@
 # hhdev Wordpress SMTP mailer
-## Send mail via STMP not php mailer
+## Send mail via STMP not phpmailer
 
-Use SMTP over php mailer to send emails. 
+Use SMTP over phpmailer to send emails. 
 Set the configuration details in wp-config.php
 Add only tht wp-smtp-mailer.php file to your /mu-plugins directory. If this does not exist does create it in /wp-content. 
 
