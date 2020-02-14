@@ -3,7 +3,7 @@
 
 Use SMTP over phpmailer to send emails. 
 Set the configuration details in wp-config.php.
-Add only the wp-smtp-mailer.php file to your /mu-plugins directory. If this does not exist does create it in /wp-content. 
+Just add the wp-smtp-mailer.php file to your /mu-plugins/ directory. If this does not exist does create it in /wp-content. 
 
 Example settings:
 ``` 
