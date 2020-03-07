@@ -1,4 +1,4 @@
-# hhdev Wordpress SMTP mailer
+# Wordpress SMTP mailer
 ## Send mail via STMP not phpmailer
 
 Use SMTP over phpmailer to send emails. 
